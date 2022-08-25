@@ -1,0 +1,61 @@
+
+@media screen and (min-width: 992px) {body {margin-left: 100px; margin-right: 100px;}}
+@media screen and (min-width: 992px) {div.aa {margin-left: 100px; margin-right: 100px;}}
+@media screen and (min-width: 992px) {div.end {margin-left: -100px; margin-right: -100px;}}
+@media screen and (min-width: 992px) {div.end0 {margin-left: -100px; margin-right: -100px;}}
+@media screen and (min-width: 992px) {div.end-content {margin-left: 100px; margin-right: 100px;}}
+header {position: fixed;	background-color: #FFFFFF;	width: 100%;	top: 0;	left: 0; 
+	box-shadow: 0px 0px 16px rgba(38, 38, 38, 0.16); z-index: 1000; height: 72px;}
+div.container {display: flex; justify-content: space-between; margin-top: 16px; margin-left: 5px; margin-right: 5px;}
+span {display: flex;}
+button {margin-left: 10px; margin-right: 10px; background-color: #FFFFFF; padding: 10px 16px 10px 16px; border-radius: 4px; border: 2px solid #E0E0E0;}
+button:hover {background-color: #E0E0E0;}
+form {margin-top: 100px; width: 100%; color: #E0E0E0; border-bottom: 1px solid #E0E0E0;}
+input {all: unset; width: 100%; font-family: 'Roboto', sans-serif;}
+h1 {font-family: 'Roboto', sans-serif; font-size: 22; font-style: regular; font-weight: 100; padding-top: 10px; padding-bottom: 10px;}
+div.row {display: inline-flex; flex-wrap: wrap; justify-content: space-between;}
+h2 {font-family: 'Roboto', sans-serif; font-size: 16; font-style: regular; font-weight: 100;}
+h3 {font-family: 'Roboto', sans-serif; font-size: 14; font-style: regular; font-weight: 100; color: #626262}
+h4 {font-family: 'Roboto', sans-serif; font-size: 13; font-style: regular; font-weight: 100;}
+div.end {background-color: #262626;}
+hr {margin-top: 100px; margin-bottom: 100px;}
+div.logo {padding-top: 70px;}
+div.selection {display: inline-flex; align-items: center; height: 40px; background-color: #3B3B3B; width: 100%; padding: 5px 5px 5px 5px; margin-bottom: 50px;}
+select {width: 90%; font-family: 'Roboto', sans-serif; background-color: #3B3B3B; border: none; color: white; padding: 5px 5px 5px 5px;}
+div.u {display: flex; flex-wrap: wrap; justify-content: space-between;}
+h5 {font-family: 'Roboto', sans-serif; color: white; font-weight: 200;}
+@media screen and (max-width: 992px) {div.u {flex-direction: column;}}
+@media screen and (max-width: 992px) {div.selection {width: 30%;}}
+div.img-bottom {display: flex; justify-content: space-evenly; margin-left: 20%; margin-right: 20%; }
+div.e {display: flex; flex-wrap: wrap; justify-content: space-between;}
+h6 {font-family: 'Roboto', sans-serif; color: white; font-weight: 200; font-size: 10; padding-bottom: 50px;} 
+@media screen and (max-width: 992px) {div.e {flex-direction: column;}}
+div.btn-up {display: flex; position: fixed; bottom: 5px; right: 5px;}
+
+div.end0 {position: relative;}
+.end0 img {width: 100%;}
+div.card2 {position: absolute; top: 40%; width: 80%;  background-color: #f7f4f4; padding-left: 40px; padding-right: 40px; padding-top: 10px; padding-bottom: 10px;}
+div.card2text {display: flex; justify-content: space-between; align-items: center;}
+h5.min {padding-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 0px;}
+@media screen and (min-width: 800px) {div.card2 {width: 30%; margin-left: 100px; position: absolute; top: 20%;}}
+
+div.toolbar2 {display: inline-flex; justify-content: flex-start; margin-bottom: 20px;}
+.toolbar2 h3 {padding-right: 3%;}
+@media screen and (max-width: 600px) {div.toolbar2 {opacity: 0; visibility: hidden; display: none}}
+
+@media screen and (max-width: 600px) {.z {margin-bottom: 30px; margin-left: 37%; margin-right: 37%; text-align: center; padding-top: 80px; border-bottom: 1px solid #757575; }}
+
+.dishes0 {height: 160px; display:inline-flex; width: 470px; border: 1px solid #D8D8D8; margin-right: 20px; margin-bottom: 50px;}
+.dishes0 h2 {height: 80px; margin-top: 0px; margin-bottom: 0px; display: flex; }
+.dishes0 h3 {margin-top: 0px; margin-bottom: 30px;}
+
+.dishes {height: 160px; display:inline-flex; justify-content: space-between; width: 470px; border: 1px solid #D8D8D8; margin-right: 20px; margin-bottom: 50px;}
+.dishes h2 {height: 130px; margin-top: 0px; margin-bottom: 0px; display: flex; }
+
+
+
+
+
+
+
+
